@@ -1,0 +1,1 @@
+Este repositório tem como próposito a criação de um avaliador de Provas do DETRAN, por meio do uso de códigos na linguagem Python (usando bibliotecas como Tkinter, Ttk e TkBootstrap) e o uso de Sqlite3 para o gerenciamento de banco de dados. 

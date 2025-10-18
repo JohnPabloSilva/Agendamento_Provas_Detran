@@ -1,0 +1,37 @@
+[
+    {
+        "placa_veic": "QLU4C12",
+        "tipo_veic":"M",
+        "modelo_veic": "NEO",
+        "marca_veic":"Yamaha",
+        "cor_veic": "vermelho",
+        "autoEscola_veic": "Rio Branco"},
+
+    {
+        "placa_veic": "ABC1D23",
+        "tipo_veic":"C",
+        "modelo_veic": "Uno",
+        "marca_veic":"Fiat",
+        "cor_veic": "vermelho",
+        "autoEscola_veic": "Rio Branco"
+
+    },
+    {
+        "placa_veic": "DEF3G12",
+        "tipo_veic":"M",
+        "modelo_veic": "Factor",
+        "marca_veic":"Yamaha",
+        "cor_veic": "Preto",
+        "autoEscola_veic": "Rio Branco"
+
+    },
+    {
+        "placa_veic": "DE92B1A",
+        "tipo_veic":"C",
+        "modelo_veic": "MOBI",
+        "marca_veic":"Fiat",
+        "cor_veic": "Rosa",
+        "autoEscola_veic": "AQUIRI"
+
+    }
+]

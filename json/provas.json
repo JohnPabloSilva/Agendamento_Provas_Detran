@@ -1,0 +1,26 @@
+[
+    {
+        "tipo_prova": "M",
+        "dh_prova": "2024-10-22 14:30",
+        "infracoes_prova": "NULL",
+        "resultado": "I",
+        "detalhes": "",
+        "id_aluno_prova": 1
+    },
+    {
+        "tipo_prova": "M",
+        "dh_prova": "2024-10-18 14:30",
+        "infracoes_prova": 4,
+        "resultado": "R",
+        "detalhes": "Esqueceu o pisca ligado e estancou a moto",
+        "id_aluno_prova": 1
+    },
+    {
+        "tipo_prova": "C",
+        "dh_prova": "2024-10-22 14:30",
+        "infracoes_prova": "NULL",
+        "resultado": "I",
+        "detalhes": "",
+        "id_aluno_prova": 2
+    }
+]
